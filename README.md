@@ -1,2 +1,1 @@
-# The-good-jam
-The good stuff
+# That one time doing a 40 minute game jam

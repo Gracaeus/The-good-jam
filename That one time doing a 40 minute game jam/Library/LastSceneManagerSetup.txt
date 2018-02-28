@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/That one time doing a 40 minute game jam.unity
+  isLoaded: 1
+  isActive: 1
